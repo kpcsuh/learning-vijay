@@ -52,7 +52,7 @@ public class Excercise1 {
         System.out.println("Sum of Numbers: " + count);
 
         // Prasad
-             
+             // Vijay
         
 
     }
