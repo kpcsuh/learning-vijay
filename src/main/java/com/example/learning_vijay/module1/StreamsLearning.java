@@ -9,7 +9,7 @@ public class StreamsLearning {
 
     public static void main(String[] args) {
         // Example of using streams to filter and collect data
-        List<String> names = Arrays.asList("Alice", "Bob", "Charlie", "David");
+        List<String> names = Arrays.asList("Alice", "Bob", "Charlie", "David", "Andrew", "Ana");
 
         List<String> filteredNames = names.stream()
                 .filter(name -> name.startsWith("A"))
